@@ -1,7 +1,0 @@
-com\cisco\ccm\alexa\handlers\LaunchRequestHandler.class
-com\cisco\ccm\alexa\handlers\PhoneAssistantIntentHandler.class
-com\cisco\ccm\alexa\handlers\FallbackIntentHandler.class
-com\cisco\ccm\alexa\handlers\HelpIntentHandler.class
-com\cisco\ccm\alexa\PhoneAssistantStreamHandler.class
-com\cisco\ccm\alexa\handlers\SessionEndedRequestHandler.class
-com\cisco\ccm\alexa\handlers\CancelandStopIntentHandler.class
